@@ -1,6 +1,6 @@
-<div style="display:flex; justify-content: center; margin: 10px 0;">
-    <img src="./images/goat.JPG" alt="goat" width="300" height="300">
-</div>
+<p align="center">
+  <img src="./images/goat.JPG" alt="goat" width="300" height="300">
+</p>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
